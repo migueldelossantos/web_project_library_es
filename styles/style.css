@@ -254,19 +254,19 @@
 
 .person_name_burbidge {
   position: absolute;
-  top: 90px;
+  top: 96px;
   right: 125px;
 }
 
 .person_name_cannon {
   position: absolute;
-  right: 226px;
+  right: 216px;
   bottom: 18px;
 }
 
 .person_name_mitchell {
   position: absolute;
-  left: 124px;
+  left: 142px;
   bottom: 82px;
 }
 
@@ -292,8 +292,8 @@
   width: 80px;
 }
 
-/* .person__caption {
+.person__caption {
   text-align: center;
   font-size: 14px;
   margin: 0;
-} */
+}
