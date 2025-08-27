@@ -386,13 +386,15 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: flex-start;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
   margin: 0;
-  margin-right: 10px;
 }
 
 .footer__copyright {
